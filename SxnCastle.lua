@@ -1,5 +1,5 @@
 -- SXN CASTLE 👑 ELITE V53 (GOLD EDITION)
-local UI_NAME, SUB_NAME = "Sxn Castle 👑", "South Bronx Special"
+local UI_NAME, SUB_NAME = "Sxn Castle 👑", "Mobile Cheat"
 local Players = game:GetService("Players")
 local RS = game:GetService("RunService")
 local UIS = game:GetService("UserInputService")
